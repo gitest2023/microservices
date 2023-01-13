@@ -58,12 +58,7 @@
 
     <modules>
         <module>config-service</module>
-        <module>database</module>
-        <module>common</module>
         <module>service-registry</module>
-        <module>api-gateway-service</module>
-        <module>product-service</module>
-        <module>payment-service</module>
 
         <!-- For Test -->
         <module>test-config-service</module>
